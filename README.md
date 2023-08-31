@@ -4,7 +4,7 @@
 
 文章搜索
 
-![image-20230816151026106](D:\idea\typora目录\知识星球已发布文章\image-20230816151026106.png)
+![https://github.com/isxiaochen/Chen-Search/blob/master/image/image-20230816151026106.png)
 
 
 
