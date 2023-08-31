@@ -4,19 +4,19 @@
 
 文章搜索
 
-![首页](https://github.com/isxiaochen/Chen-Search/blob/master/image/image-20230816151026106.png)
+![文章搜索](https://github.com/isxiaochen/Chen-Search/blob/master/image/image-20230816151026106.png)
 
 
 
 图片搜索
 
-![image-20230816151456344](D:\idea\typora目录\知识星球已发布文章\image-20230816151456344.png)
+![图片搜索1](https://github.com/isxiaochen/Chen-Search/blob/master/image/image-20230816151456344.png)
 
-![image-20230816152027607](D:\idea\typora目录\知识星球已发布文章\image-20230816152027607.png)
+![图片搜索2](https://github.com/isxiaochen/Chen-Search/blob/master/image/image-20230816152027607.png)
 
 用户搜索
 
-![image-20230816153006489](D:\idea\typora目录\知识星球已发布文章\image-20230816153006489.png)
+![用户搜索](https://github.com/isxiaochen/Chen-Search/blob/master/image/image-20230816153006489.png)
 
 ## 项目背景
 
@@ -26,7 +26,7 @@
 
 ## 系统架构
 
-![image-20230802130136320](D:\idea\typora目录\知识星球已发布文章\image-20230802130136320.png)
+![系统架构](https://github.com/isxiaochen/Chen-Search/blob/master/image/image-20230802130136320.png)
 
 ## 技术栈
 
