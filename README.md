@@ -4,7 +4,7 @@
 
 文章搜索
 
-![https://github.com/isxiaochen/Chen-Search/blob/master/image/image-20230816151026106.png)
+![首页](https://github.com/isxiaochen/Chen-Search/blob/master/image/image-20230816151026106.png)
 
 
 
